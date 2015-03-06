@@ -1,9 +1,0 @@
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\bin\Debug\VeganCheckUpdate.exe
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\bin\Debug\VeganCheckUpdate.pdb
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\obj\x86\Debug\VeganCheckUpdate.csproj.GenerateResource.Cache
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\obj\x86\Debug\VeganCheckUpdate.exe
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\obj\x86\Debug\VeganCheckUpdate.pdb
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\bin\Debug\VeganCheckUpdate.exe.config
-C:\Users\User\documents\visual studio 2010\Projects\VeganCheckUpdate\VeganCheckUpdate\obj\x86\Debug\VeganCheckUpdate.csprojResolveAssemblyReference.cache
